@@ -1,12 +1,10 @@
-# PRODIGY_CS_04
-
-## Keylogger for Educational Purposes
+# Keylogger for Educational Purposes
 
 This is a simple keylogger implemented in Python using the `pynput` library. It records keypress events and stores them in a log file for educational purposes only. The program writes logs with timestamps for each key pressed.
 
 ---
 
-### Features
+## Features
 
 - **Logs Keystrokes**: Tracks every key press and records it with a timestamp.
 
@@ -24,7 +22,7 @@ This is a simple keylogger implemented in Python using the `pynput` library. It 
 
 ---
 
-### Requirements
+## Requirements
 
 To run this project, you'll need to install the `pynput` library. You can install it using pip:
 
@@ -34,7 +32,7 @@ pip install pynput
 
 ---
 
-### Installation
+## Installation
 
 1. Clone the repository:
 ```bash
